@@ -1,0 +1,12 @@
+*/*.zip
+*/*.npy
+*/*.png
+python/
+
+*.zip
+*.npy
+*.png
+*.csv
+*.pkl
+*.JPEG
+*.jpg
